@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: logback-syslogng-elasticsearch
+    version: 1.0
